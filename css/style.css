@@ -1,0 +1,54 @@
+.container{
+    padding:100px 0px;
+}
+h1 {
+    text-transform: uppercase;
+}
+
+.line {
+    width: 50px;
+    height: 5px;
+    background: #14adf3;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.box {
+    margin: 20px;
+}
+
+img {
+    width: 150px !important;
+}
+
+.box h3 {
+    text-transform: uppercase;
+}
+
+.box h6 {
+    font-weight: 100;
+    color: #a6a6a6;
+}
+
+.owl-carousel {
+    position: relative;
+    padding: 20px 0px;
+}
+
+.owl-nav {
+    position: absolute;
+    top:-20px;
+    right:0;
+}
+
+.fas {
+    color: #000;
+    background: #f3f3f3;
+    padding: 10px;
+    margin: 5px
+}
+
+.fas:hover {
+    color: #fff;
+    background: #13adf3;
+}
